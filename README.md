@@ -15,3 +15,7 @@ In the Intro to Machine Learning and the Intermediate Machine Learning courses, 
 * Step 5: Evaluate the model - Use a validation set to assess how well a trained model performs on unseen data.
 * Step 6: Tune parameters - Tune parameters to get better performance from XGBoost models.
 * Step 7: Get predictions - Generate predictions with a trained model and submit your results to a Kaggle competition.
+
+That leaves Step 3: Select a model. There are a lot of different types of models. Which one should you select for your problem? When you're just getting started, the best option is just to try everything and build your own intuition - there aren't any universally accepted rules. There are also many useful Kaggle notebooks (like this one) where you can see how and when other Kagglers used different models.
+
+Mastering the machine learning process involves a lot of time and practice. While you're still learning, you can turn to automated machine learning (AutoML) tools to generate intelligent predictions.
