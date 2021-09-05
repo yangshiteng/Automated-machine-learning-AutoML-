@@ -19,3 +19,19 @@ In the Intro to Machine Learning and the Intermediate Machine Learning courses, 
 That leaves Step 3: Select a model. There are a lot of different types of models. Which one should you select for your problem? When you're just getting started, the best option is just to try everything and build your own intuition - there aren't any universally accepted rules. There are also many useful Kaggle notebooks (like this one) where you can see how and when other Kagglers used different models.
 
 Mastering the machine learning process involves a lot of time and practice. While you're still learning, you can turn to automated machine learning (AutoML) tools to generate intelligent predictions.
+
+In this notebook, you'll learn how to use Google Cloud AutoML Tables to automate the machine learning process. While Kaggle has already taken care of the data collection, AutoML Tables will take care of all remaining steps.
+
+* Step 1: Gathering the data
+* Step 2: Prepare the data
+* Step 3: Select a model
+* Step 4: Train the model
+* Step 5: Evaluate the model
+* Step 6: Tune Parameters
+* Step 7: Get predictions
+
+AutoML Tables is a paid service. In the exercise that follows this tutorial, we'll show you how to claim $300 of free credits that you can use to train your own models!
+
+
+
+
