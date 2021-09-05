@@ -32,6 +32,5 @@ In this notebook, you'll learn how to use Google Cloud AutoML Tables to automate
 
 AutoML Tables is a paid service. In the exercise that follows this tutorial, we'll show you how to claim $300 of free credits that you can use to train your own models!
 
-
-
-
+Check the following website for detail:
+https://www.kaggle.com/alexisbcook/intro-to-automl?select=automl_tables_wrapper.py
